@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @RAJORACHARV
+- 👀 I’m interested in ...
+- 🌱 I’m currently doing BCA with AIML 
+specialization
+- 💞️ I’m looking to Be a Good Coder ...
+- 📫 How to reach me E-mail
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+RAJORACHARV/RAJORACHARV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
